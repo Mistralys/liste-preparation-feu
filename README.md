@@ -15,6 +15,10 @@ Caisse dans la cave avec de l'équipement :
 
 - Générateur sous la pergola
 - Mouiller les toits avec les arroseurs 
+- Bouteilles de gaz: dans la piscine 
+- Ouvrir et bloquer le portail 
+- Voitures : Dans le pré 
+- Ânes:?? 
 
 
 
