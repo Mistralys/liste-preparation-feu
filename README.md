@@ -6,10 +6,11 @@
     - Filtres de rechange ?
     - Durée de vie des filtres ? 
 - Serviettes, torchons
-- Habits coton (peu inflammables) chapeau, lunettes 
+- Habits coton (peu inflammables) avec capuche ou chapeau, lunettes 
 - Jericans vides à remplir pour eau potable
 - Seaux pour stocker eau en défense
-- Buse réglable pour la pompe incendie 
+- Buse réglable pour la pompe incendie
+- trousse secour 
 
 ## A faire avant 
 
@@ -22,6 +23,7 @@
 - Voitures : Dans le pré 
 - Mouiller les toits avec les arroseurs 
 - Remplir autant de récipients que possible avec de l'eau
+- arrosoirs
 - bouteilles remplies pour boire
 - tremper du linge pour calfeutrer fenetre et portes
 - enfermer Sid
