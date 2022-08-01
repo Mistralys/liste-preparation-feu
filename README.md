@@ -5,7 +5,7 @@
 - Masques à gaz (2-3)
     - Filtres de rechange ?
     - Durée de vie des filtres ? 
-- Serviettes, torchons
+- Serviettes, draps, torchons
 - Habits coton (peu inflammables) avec capuche ou chapeau, lunettes 
 - Jericans vides à remplir pour eau potable
 - Seaux pour stocker eau en défense
