@@ -6,17 +6,19 @@
     - Filtres de rechange ?
     - Durée de vie des filtres ? 
 - Serviettes, draps, torchons
-- Habits coton (peu inflammables) avec capuche ou chapeau, lunettes 
+- Habits coton (peu inflammables) avec capuche ou chapeau, lunettes
+- pack eau minerale
 - Jericans vides à remplir pour eau potable
 - Seaux pour stocker eau en défense
 - Buse réglable pour la pompe incendie
-- trousse secour 
+- trousse secours 
+- serum phy
 
 ## A faire avant 
 
 - Couper l'au à la citerne (pour éviter de la vider si les tuyaux fondent)
 - Bouteilles de gaz: dans la piscine 
-- couper le gaz
+- couper le gaz direct à la citerne
 - fermer les volets
 - decrocher les rideaux
 - Ouvrir et bloquer le portail 
